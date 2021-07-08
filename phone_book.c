@@ -2,8 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-
-
 const char *DB="directory.db";
 
 struct entry0 {
